@@ -5,7 +5,7 @@
 		<a href="https://www.linkedin.com/in/abrahamarteagaherrera/">linkedin</a>
 	</li>
 	<li>
-		<a href="instagram.com">Instagram</a>
+		<a href="https://www.instagram.com/abramcho_/">Instagram</a>
 	</li>
 	<li>
 		<a href="https://vsco.co/abramcho-/gallery">vsco</a>
