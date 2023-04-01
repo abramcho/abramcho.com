@@ -17,7 +17,7 @@
 		<a href="https://twitter.com/abramcho_">Twitter</a>
 	</li>
 	<li>
-		<a href="https://www.twitch.tv/dumio_">Podcast</a>
+		<a href="https://www.youtube.com/@dumio8480">Podcast</a>
 	</li>
 </ul>
 
